@@ -1,0 +1,150 @@
+2014-7-9 3:46:20 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0_45\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\ProgramData\Lenovo\ReadyApps;D:\Program Files (x86)\EmEditor;D:\Program Files (x86)\TortoiseGit\bin;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\tools;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\platform-tools;C:\Program Files\Java\jdk1.6.0_45\bin;%TOMCAT_ HOME%\bin;.
+2014-7-9 3:46:21 org.apache.coyote.http11.Http11Protocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+2014-7-9 3:46:21 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1287 ms
+2014-7-9 3:46:21 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+2014-7-9 3:46:21 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.41
+2014-7-9 3:46:21 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+2014-7-9 3:46:22 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+2014-7-9 3:46:22 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory host-manager
+2014-7-9 3:46:22 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory manager
+2014-7-9 3:46:22 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory mp3
+2014-7-9 3:46:22 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+2014-7-9 3:46:22 org.apache.coyote.http11.Http11Protocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+2014-7-9 3:46:22 org.apache.jk.common.ChannelSocket init
+信息: JK: ajp13 listening on /0.0.0.0:8009
+2014-7-9 3:46:22 org.apache.jk.server.JkMain start
+信息: Jk running ID=0 time=0/23  config=null
+2014-7-9 3:46:22 org.apache.catalina.startup.Catalina start
+信息: Server startup in 837 ms
+2014-7-9 3:58:52 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0_45\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\ProgramData\Lenovo\ReadyApps;D:\Program Files (x86)\EmEditor;D:\Program Files (x86)\TortoiseGit\bin;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\tools;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\platform-tools;C:\Program Files\Java\jdk1.6.0_45\bin;%TOMCAT_ HOME%\bin;.
+2014-7-9 3:58:52 org.apache.coyote.http11.Http11Protocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+2014-7-9 3:58:52 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 476 ms
+2014-7-9 3:58:52 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+2014-7-9 3:58:52 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.41
+2014-7-9 3:58:52 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+2014-7-9 3:58:52 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+2014-7-9 3:58:52 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+2014-7-9 3:58:52 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+2014-7-9 3:58:52 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory mp3
+2014-7-9 3:58:52 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+2014-7-9 3:58:53 org.apache.coyote.http11.Http11Protocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+2014-7-9 3:58:53 org.apache.jk.common.ChannelSocket init
+信息: JK: ajp13 listening on /0.0.0.0:8009
+2014-7-9 3:58:53 org.apache.jk.server.JkMain start
+信息: Jk running ID=0 time=0/19  config=null
+2014-7-9 3:58:53 org.apache.catalina.startup.Catalina start
+信息: Server startup in 743 ms
+2014-7-9 4:18:18 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0_45\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\ProgramData\Lenovo\ReadyApps;D:\Program Files (x86)\EmEditor;D:\Program Files (x86)\TortoiseGit\bin;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\tools;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\platform-tools;C:\Program Files\Java\jdk1.6.0_45\bin;%TOMCAT_ HOME%\bin;.
+2014-7-9 4:18:19 org.apache.coyote.http11.Http11Protocol init
+信息: Initializing Coyote HTTP/1.1 on http-8081
+2014-7-9 4:18:19 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 514 ms
+2014-7-9 4:18:19 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+2014-7-9 4:18:19 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.41
+2014-7-9 4:18:19 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+2014-7-9 4:18:19 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+2014-7-9 4:18:19 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+2014-7-9 4:18:19 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+2014-7-9 4:18:19 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory mp3
+2014-7-9 4:18:19 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+2014-7-9 4:18:19 org.apache.coyote.http11.Http11Protocol start
+信息: Starting Coyote HTTP/1.1 on http-8081
+2014-7-9 4:18:19 org.apache.jk.common.ChannelSocket init
+信息: JK: ajp13 listening on /0.0.0.0:8009
+2014-7-9 4:18:19 org.apache.jk.server.JkMain start
+信息: Jk running ID=0 time=0/19  config=null
+2014-7-9 4:18:19 org.apache.catalina.startup.Catalina start
+信息: Server startup in 773 ms
+2014-7-9 4:31:29 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0_45\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\ProgramData\Lenovo\ReadyApps;D:\Program Files (x86)\EmEditor;D:\Program Files (x86)\TortoiseGit\bin;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\tools;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\platform-tools;C:\Program Files\Java\jdk1.6.0_45\bin;%TOMCAT_ HOME%\bin;.
+2014-7-9 4:31:30 org.apache.coyote.http11.Http11Protocol init
+信息: Initializing Coyote HTTP/1.1 on http-8081
+2014-7-9 4:31:30 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 489 ms
+2014-7-9 4:31:30 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+2014-7-9 4:31:30 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.41
+2014-7-9 4:31:30 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+2014-7-9 4:31:30 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+2014-7-9 4:31:30 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+2014-7-9 4:31:30 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+2014-7-9 4:31:30 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory mp3
+2014-7-9 4:31:30 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+2014-7-9 4:31:30 org.apache.coyote.http11.Http11Protocol start
+信息: Starting Coyote HTTP/1.1 on http-8081
+2014-7-9 4:31:30 org.apache.jk.common.ChannelSocket init
+信息: JK: ajp13 listening on /0.0.0.0:8009
+2014-7-9 4:31:30 org.apache.jk.server.JkMain start
+信息: Jk running ID=0 time=0/19  config=null
+2014-7-9 4:31:30 org.apache.catalina.startup.Catalina start
+信息: Server startup in 824 ms
+2014-7-9 4:40:52 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0_45\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\ProgramData\Lenovo\ReadyApps;D:\Program Files (x86)\EmEditor;D:\Program Files (x86)\TortoiseGit\bin;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\tools;F:\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\platform-tools;C:\Program Files\Java\jdk1.6.0_45\bin;%TOMCAT_ HOME%\bin;.
+2014-7-9 4:40:52 org.apache.coyote.http11.Http11Protocol init
+信息: Initializing Coyote HTTP/1.1 on http-8081
+2014-7-9 4:40:52 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 449 ms
+2014-7-9 4:40:52 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+2014-7-9 4:40:52 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.41
+2014-7-9 4:40:52 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+2014-7-9 4:40:53 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+2014-7-9 4:40:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+2014-7-9 4:40:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+2014-7-9 4:40:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory mp3
+2014-7-9 4:40:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+2014-7-9 4:40:53 org.apache.coyote.http11.Http11Protocol start
+信息: Starting Coyote HTTP/1.1 on http-8081
+2014-7-9 4:40:53 org.apache.jk.common.ChannelSocket init
+信息: JK: ajp13 listening on /0.0.0.0:8009
+2014-7-9 4:40:53 org.apache.jk.server.JkMain start
+信息: Jk running ID=0 time=0/15  config=null
+2014-7-9 4:40:53 org.apache.catalina.startup.Catalina start
+信息: Server startup in 713 ms
